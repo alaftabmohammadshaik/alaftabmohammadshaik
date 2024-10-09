@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alaftabmohammadshaik
-- 👀 I’m interested in data analytics,business analytics,marketing analytics,business intelligence,digital marketing analytics
+- 👀 I’m interested in Data Analytics,Business Analytics,Product Management, Marketing Analytics,Business Intelligence,Finance Analytics
 - 💞️ I’m looking to collaborate on data visualization projects, Power BI dashboard development, and innovative analytics solutions for business challenges
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love blending my engineering background with data analytics to uncover hidden insights. Also, I'm passionate badminton player! 
