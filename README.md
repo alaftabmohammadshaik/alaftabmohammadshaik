@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alaftabmohammadshaik
+- 👋 Hi, I’m alaftab sk
 - 👀 I’m interested in Data Analytics,Business Analytics,Product Management, Marketing Analytics,Business Intelligence,Finance Analytics
 - 💞️ I’m looking to collaborate on data visualization projects, Power BI dashboard development, and innovative analytics solutions for business challenges
 - 😄 Pronouns: He/Him
